@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"do"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"fir",
+				"first_page_of_users"
+			],
+			[
+				"remember",
+				"remember_token"
+			],
+			[
+				"gravata",
+				"gravatar_url"
+			],
+			[
+				"gra",
+				"gravatar_id"
+			],
+			[
+				"in",
+				"invalid_address"
+			],
+			[
+				"inva",
+				"invalid_addresse"
+			],
+			[
+				"val",
+				"valid_address"
+			]
+		]
+	},
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/alex/workspace/blog/app/models/article.rb",
+		"/home/alex/workspace/blog/config/routes.rb",
+		"/home/alex/workspace/blog/features/support/paths.rb",
+		"/home/alex/workspace/blog/.rspec",
+		"/home/alex/workspace/blog/spec/factories/articles.rb",
+		"/home/alex/workspace/blog/db/migrate/20141112150342_create_articles.rb",
+		"/home/alex/workspace/blog/features/step_definitions/.gitkeep",
+		"/home/alex/.config/sublime-text-2/Packages/Cucumber/gist864839-78694a03e8582beff8501055db0db3a01e3d034b.tar.gz",
+		"/home/alex/Безымянный документ",
+		"/home/alex/workspace/blog/Gemfile",
+		"/home/alex/workspace/blog/.gitignore",
+		"/home/alex/workspace/rspec_app/spec/models/schedule_spec.rb",
+		"/home/alex/workspace/rspec_app/app/models/schedule.rb",
+		"/home/alex/workspace/rspec_app/Gemfile",
+		"/home/alex/workspace/rspec_app/spec/factories/schedules.rb",
+		"/home/alex/workspace/rspec_app/.rspec",
+		"/home/alex/workspace/rspec_app/spec/rails_helper.rb",
+		"/home/alex/workspace/rspec_app/.gitignore",
+		"/home/alex/workspace/bdd_testing/.gitignore",
+		"/home/alex/workspace/bdd_testing/Gemfile",
+		"/home/alex/workspace/sample_app/test/integration/following_test.rb",
+		"/home/alex/workspace/sample_app/app/views/microposts/_micropost.html.erb",
+		"/home/alex/workspace/sample_app/test/integration/users_profile_test.rb",
+		"/home/alex/workspace/sample_app/app/views/shared/_stats.html.erb",
+		"/home/alex/workspace/sample_app/app/models/micropost.rb",
+		"/home/alex/workspace/sample_app/app/controllers/relationships_controller.rb",
+		"/home/alex/workspace/sample_app/app/models/user.rb",
+		"/home/alex/workspace/sample_app/test/models/user_test.rb",
+		"/home/alex/workspace/sample_app/test/fixtures/relationships.yml",
+		"/home/alex/workspace/sample_app/test/fixtures/users.yml",
+		"/home/alex/workspace/sample_app/app/views/users/_follow_form.html.erb",
+		"/home/alex/workspace/sample_app/app/views/relationships/destroy.js.erb",
+		"/home/alex/workspace/sample_app/app/views/relationships/create.js.erb",
+		"/home/alex/workspace/sample_app/app/views/users/_unfollow.html.erb",
+		"/home/alex/workspace/sample_app/app/views/users/_follow.html.erb",
+		"/home/alex/workspace/sample_app/test/controllers/relationships_controller_test.rb",
+		"/home/alex/workspace/sample_app/app/views/users/show_follow.html.erb",
+		"/home/alex/workspace/sample_app/app/views/users/show.html.erb",
+		"/home/alex/workspace/sample_app/app/controllers/users_controller.rb",
+		"/home/alex/workspace/sample_app/test/controllers/users_controller_test.rb",
+		"/home/alex/workspace/sample_app/app/views/shared/_follow_form.html.erb",
+		"/home/alex/workspace/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/alex/workspace/sample_app/app/views/static_pages/home.html.erb",
+		"/home/alex/workspace/sample_app/app/views/shared/_home_logged_in.html.erb",
+		"/home/alex/workspace/sample_app/config/routes.rb",
+		"/home/alex/workspace/sample_app/db/seeds.rb",
+		"/home/alex/workspace/sample_app/app/models/relationship.rb",
+		"/home/alex/workspace/sample_app/test/models/relationship_test.rb",
+		"/home/alex/workspace/sample_app/db/migrate/20141104142901_create_relationships.rb",
+		"/home/alex/workspace/sample_app/.gitignore",
+		"/home/alex/workspace/sample_app/config/initializers/skip_image_resizing.rb",
+		"/home/alex/workspace/sample_app/test/fixtures/microposts.yml",
+		"/home/alex/workspace/sample_app/app/views/shared/_home_not_logged_in",
+		"/home/alex/workspace/sample_app/app/views/shared/_home_logged_in",
+		"/home/alex/workspace/sample_app/app/uploaders/picture_uploader.rb",
+		"/home/alex/workspace/sample_app/app/views/shared/_micropost_form.html.erb",
+		"/home/alex/workspace/sample_app/app/controllers/microposts_controller.rb",
+		"/home/alex/workspace/sample_app/test/integration/microposts_interaface_test.rb",
+		"/home/alex/workspace/sample_app/Gemfile",
+		"/home/alex/workspace/sample_app/test/controllers/microposts_controller_test.rb",
+		"/home/alex/workspace/sample_app/app/views/shared/_feed.html.erb",
+		"/home/alex/workspace/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/alex/workspace/sample_app/app/views/users/_fields.html.erb",
+		"/home/alex/workspace/sample_app/app/views/password_resets/edit.html.erb",
+		"/home/alex/workspace/sample_app/app/views/shared/_error_messages.html.erb",
+		"/home/alex/workspace/sample_app/app/views/users/new.html.erb",
+		"/home/alex/workspace/sample_app/app/views/shared/_user_info.html.erb",
+		"/home/alex/workspace/sample_app/app/controllers/application_controller.rb",
+		"/home/alex/workspace/sample_app/app/controllers/account_activations_controller.rb",
+		"/home/alex/workspace/sample_app/test/models/micropost_test.rb",
+		"/home/alex/workspace/sample_app/test/integration/users_signup_test.rb",
+		"/home/alex/workspace/sample_app/test/integration/users_show_test.rb",
+		"/home/alex/workspace/sample_app/test/integration/users_index_test.rb",
+		"/home/alex/workspace/sample_app/app/controllers/password_resets_controller.rb",
+		"/home/alex/workspace/sample_app/test/integration/password_resets_test.rb",
+		"/home/alex/workspace/sample_app/app/mailers/user_mailer.rb",
+		"/home/alex/workspace/sample_app/test/mailers/user_mailer_test.rb",
+		"/home/alex/workspace/sample_app/test/mailers/previews/user_mailer_preview.rb",
+		"/home/alex/workspace/sample_app/app/views/user_mailer/password_reset.html.erb",
+		"/home/alex/workspace/sample_app/app/views/user_mailer/password_reset.text.erb",
+		"/home/alex/workspace/sample_app/app/views/password_resets/new.html.erb",
+		"/home/alex/workspace/sample_app/app/views/sessions/new.html.erb",
+		"/home/alex/workspace/sample_app/app/controllers/sessions_controller.rb",
+		"/home/alex/workspace/sample_app/app/helpers/sessions_helper.rb",
+		"/home/alex/workspace/sample_app/config/environments/test.rb",
+		"/home/alex/workspace/sample_app/app/views/user_mailer/account_activation.text.erb",
+		"/home/alex/workspace/sample_app/config/environments/development.rb",
+		"/home/alex/workspace/sample_app/app/views/user_mailer/account_activation.html.erb",
+		"/home/alex/workspace/sample_app/db/migrate/20141029155539_add_activation_to_users.rb",
+		"/home/alex/workspace/sample_app/app/views/users/edit.html.erb",
+		"/home/alex/workspace/sample_app/test/integration/site_layout_test.rb",
+		"/home/alex/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/alex/workspace/sample_app/test/integration/users_edit_test.rb",
+		"/home/alex/workspace/sample_app/app/views/users/_user.html.erb",
+		"/home/alex/workspace/sample_app/app/views/users/index.html.erb",
+		"/home/alex/workspace/sample_app/db/migrate/20141028164855_add_admin_to_users.rb",
+		"/home/alex/workspace/sample_app/app/views/layouts/_header.html.erb",
+		"/home/alex/workspace/sample_app/test/integration/users_login_test.rb",
+		"/home/alex/workspace/sample_app/app/models/.keep",
+		"/home/alex/workspace/sample_app/test/helpers/sessions_helper_test.rb",
+		"/home/alex/workspace/sample_app/test/test_helper.rb",
+		"/home/alex/workspace/sample_app/app/assets/javascripts/application.js",
+		"/home/alex/workspace/sample_app/app/helpers/users_helper.rb",
+		"/home/alex/workspace/sample_app/config/unicorn.rb",
+		"/home/alex/workspace/sample_app/Procfile",
+		"/home/alex/workspace/sample_app/config/environments/production.rb",
+		"/home/alex/workspace/sample_app/app/views/layouts/application.html.erb",
+		"/home/alex/workspace/sample_app/config/application.rb",
+		"/home/alex/workspace/sample_app/db/migrate/20141024183546_add_index_to_users_email.rb",
+		"/home/alex/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.2.0.0/assets/stylesheets/bootstrap/bootstrap.scss",
+		"/home/alex/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.2.0.0/assets/stylesheets/bootstrap.scss",
+		"/home/alex/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.2.0.0/templates/project/styles.sass",
+		"/home/alex/.rvm/gems/ruby-2.1.3/gems/bootstrap-sass-3.2.0.0/templates/project/_bootstrap-variables.sass.erb",
+		"/home/alex/workspace/sample_app/app/assets/stylesheets/application.css",
+		"/home/alex/workspace/sample_app/app/views/layouts/_footer.html.erb",
+		"/home/alex/workspace/sample_app/app/views/layouts/_shim.html.erb",
+		"/home/alex/workspace/sample_app/app/helpers/application_helper.rb",
+		"/home/alex/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/alex/workspace/sample_app/app/views/static_pages/about.html.erb",
+		"/home/alex/workspace/sample_app/app/views/static_pages/contact.html.erb",
+		"/home/alex/workspace/sample_app/app/views/static_pages/help.html.erb",
+		"/home/alex/Загрузки/shoes-3.1.0.run",
+		"/home/alex/workspace/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/home/alex/workspace/sample_app/Guardfile",
+		"/home/alex/workspace/sample_app/config/initializers/backtrace_silencers.rb",
+		"/home/alex/workspace/toy_app/app/models/micropost.rb",
+		"/home/alex/workspace/toy_app/app/models/user.rb",
+		"/home/alex/workspace/toy_app/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"feed",
+			"              '",
+			"aside",
+			"container",
+			"div",
+			"col-md-6 col-md-offset-3",
+			"row",
+			"%>\n",
+			"ruler",
+			"minima",
+			"open",
+			"gedit.desktop",
+			"subl.desktop",
+			"save",
+			"lng",
+			"ruby",
+			"gedit.desktop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sublime.desktop",
+			"subl.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sch",
+				"app/models/schedule.rb"
+			],
+			[
+				"sched",
+				"spec/models/schedule_spec.rb"
+			],
+			[
+				"sche",
+				"app/models/schedule.rb"
+			],
+			[
+				"git",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 113.0,
+	"status_bar_visible": true
+}
