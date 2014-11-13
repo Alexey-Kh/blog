@@ -16,4 +16,5 @@
 /tmp
 
 # Ignore all sublime project files
-*.sumlime*
+*.sumlime-project
+*.sublime-workspace

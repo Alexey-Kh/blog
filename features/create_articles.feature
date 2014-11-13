@@ -1,5 +1,5 @@
 Feature: Create Articles
-  In order to provide information
+  In order to increase the amount of visitors
   As an admin
   I want to create articles
 
