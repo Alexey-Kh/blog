@@ -1,6 +1,6 @@
-<%= flash[:success] %>
-<br>
-<h1><%= @article.title %></h1>
-<br>
-<p><em><%= @article.created_at %></em></p>
-<p><%= @article.content %>
+<main class="col-sm-8">
+  <%= flash[:success] %>
+  <h1 class="article-title"><%= link_to @article.title, article_path(@article) %></h1>
+  <p class="article-meta"><%= @article.created_at.strftime("%B %e, %Y") %></p>
+  <article><%= @article.content %></article>
+</main>

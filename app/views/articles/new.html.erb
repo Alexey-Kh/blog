@@ -1,9 +1,12 @@
-<%= form_for(@article) do |f| %>
-  <%= f.label :title %>
-  <%= f.text_field :title %>
+<div class="col-sm-8">
+  <h1 class="center">Create new article</h1>
+  <%= form_for(@article) do |f| %>
+    <%= f.label :title %>
+    <%= f.text_field :title, class: 'form-control' %>
 
-  <%= f.label :content %>
-  <%= f.text_field :content %>
+    <%= f.label :content %>
+    <%= f.text_area :content, class: 'form-control', rows: '25' %>
 
-  <%= f.submit "Create"%>
-<% end %>
+    <%= f.submit "Create", class: 'btn btn-primary' %>
+  <% end %>
+</div>
