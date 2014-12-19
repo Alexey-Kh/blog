@@ -5,8 +5,6 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0.beta2'
 
 gem 'bootstrap-sass', '~> 3.2.0.0'
-# Use sqlite3 as the database for Active Record
-gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.0.beta1'
 # Use Uglifier as compressor for JavaScript assets
@@ -50,11 +48,19 @@ group :development, :test do
   gem 'spring'
   gem 'rspec-rails', '~> 3.1.0'
   gem 'factory_girl_rails'
+
+  # Use sqlite3 as the database for Active Record
+  gem 'sqlite3'
 end
 
 group :test do
   gem 'cucumber-rails', :require => false
   gem 'database_cleaner'
   gem 'capybara'
+end
+
+group :production do
+  gem 'pg',             '0.17.1'
+  gem 'rails_12factor', '0.0.2'
 end
 
