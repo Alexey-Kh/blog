@@ -93,3 +93,14 @@ input, textarea, select {
   color: $gray-light;
   margin-bottom: 20px;
 }
+
+/* pagination */
+
+div.pagination {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  ul {
+    margin-bottom: 0;
+  }
+}
