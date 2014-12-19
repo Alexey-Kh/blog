@@ -6,10 +6,10 @@ Feature: Create Articles
   Scenario: Create valid article
     Given I have no articles
     And I am on the home page
-    When I follow "New article"
+    When I click on "New article"
     And I fill in "Title" with "BDD..."
     And I fill in "Content" with "... is a useful thing."
-    And I press "Create"
-    Then I must see string "New article created."
-    And I must see string "BDD..."
-    And I must have 1 article
+    And I click on "Create"
+    Then I should see string "New article created."
+    And I should see string "BDD..."
+    And I should have 1 article
